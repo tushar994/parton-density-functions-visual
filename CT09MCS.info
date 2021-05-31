@@ -1,0 +1,29 @@
+SetDesc: "CT09 MC PDF with 2-loop alphas and no momentum sum rule violation."
+SetIndex: 10770
+Authors: H.-L.Lai, J. Huston, S.Mrenna, P.M.Nadolsky, D.Stump, W.-K.Tung and C.-P.Yuan
+Reference: arXiv:0910.4183
+Format: lhagrid1
+DataVersion: 1
+NumMembers: 1
+Particle: 2212
+Flavors: [-5, -4, -3, -2, -1, 1, 2, 3, 4, 5, 21]
+OrderQCD: 1
+ForcePositive: 1
+FlavorScheme: variable
+NumFlavors: 5
+XMin: 1e-08
+XMax: 1
+QMin: 1.29981
+QMax: 34496.9
+MZ: 91.1876
+MUp: 0
+MDown: 0
+MStrange: 0
+MCharm: 1.4
+MBottom: 4.75
+MTop: 172
+AlphaS_MZ: 0.118
+AlphaS_OrderQCD: 1
+AlphaS_Type: ipol
+AlphaS_Qs: [1.299815e+00, 1.399799e+00, 1.647031e+00, 1.966299e+00, 2.384924e+00, 2.942994e+00, 3.700566e+00, 4.749281e+00, 6.229316e+00, 8.370665e+00, 1.154800e+01, 1.639585e+01, 2.401803e+01, 3.640226e+01, 5.725339e+01, 9.118760e+01, 9.376449e+01, 1.604658e+02, 2.880961e+02, 5.449107e+02, 1.091020e+03, 2.323966e+03, 5.295601e+03, 1.298534e+04, 3.449691e+04]
+AlphaS_Vals: [4.018715e-01, 3.784685e-01, 3.417436e-01, 3.100708e-01, 2.824009e-01, 2.579693e-01, 2.362038e-01, 2.166733e-01, 2.007980e-01, 1.860880e-01, 1.724450e-01, 1.597795e-01, 1.480172e-01, 1.370902e-01, 1.269388e-01, 1.180001e-01, 1.175057e-01, 1.087418e-01, 1.006011e-01, 9.304180e-02, 8.602286e-02, 7.950859e-02, 7.346488e-02, 6.786052e-02, 6.266439e-02]
